@@ -1,2 +1,4 @@
 # BOAZ
+- Python
 - Crawling
+- Tableau
